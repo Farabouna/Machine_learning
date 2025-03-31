@@ -1,6 +1,8 @@
 # 📚 Machine Learning Projects Repository 🤖
 Welcome to the Machine Learning Projects repository! This folder contains three exciting machine learning projects, each with its unique approach and application:
 
+---
+
 ## 📝 Projects Overview
 1. Supervised Machine Learning Projects:
 
