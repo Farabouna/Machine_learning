@@ -27,7 +27,7 @@ Each project is contained in its own subfolder with the following structure:
     │   └── README.md  
     ├── Uber_pickups_project/  
     │   ├── data/  
-    │   ├── notebook.ipynb
+    │   ├── notebook.ipynb  
     │   └── README.md  
     ├── Walmart_project/   
     │   ├── data/  
