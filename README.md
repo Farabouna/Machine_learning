@@ -20,11 +20,11 @@ An unsupervised machine learning project that analyzes Uber pickup data. The goa
 📂 Project Structure
 Each project is contained in its own subfolder with the following structure:
 
-/Project_Name
-    ├── data/
-    │   ├── raw_data.csv
-    │   └── processed_data.csv
-    ├── notebooks/
-    │   ├── Project_Analysis.ipynb
+/Project_Name  
+    ├── data/  
+    │   ├── raw_data.csv  
+    │   └── processed_data.csv  
+    ├── notebooks/  
+    │   ├── Project_Analysis.ipynb  
     │
-    └── README.md
+    └── README.md  
