@@ -39,8 +39,3 @@ Project Breakdown:
 ✅ Part 2: Clustering with K-Means and DBScan for one day of the week and one hour of the day  
 ✅ Part 3: Extending clustering analysis to all days of the week  
 ✅ Part 4: Making recommendations for Uber drivers based on the findings  
-
----
-
-📂 Dataset:
-👉👉 [Uber Trip Data](https://full-stack-bigdata-datasets.s3.eu-west-3.amazonaws.com/Machine+Learning+non+Supervis%C3%A9/Projects/uber-trip-data.zip.) 👈👈
