@@ -26,17 +26,21 @@ To solve this problem, Uber’s data team is working on a project to predict hig
 
 ---
 
-🖼️ Scope of this Project
+## 🖼️ Scope of this Project
 To start off, Uber wants to test this feature in New York City. The focus will be exclusively on this city.
+
+---
+
+## 🎯 Goals  
+The objective is to create algorithms that identify hot-zones for Uber drivers and visualize results on a dashboard.
+
+Project Breakdown:  
+✅ Part 1: Data Preparation and Exploratory Data Analysis (EDA)  
+✅ Part 2: Clustering with K-Means and DBScan for one day of the week and one hour of the day  
+✅ Part 3: Extending clustering analysis to all days of the week  
+✅ Part 4: Making recommendations for Uber drivers based on the findings  
+
+---
 
 📂 Dataset:
 👉👉 [Uber Trip Data](https://full-stack-bigdata-datasets.s3.eu-west-3.amazonaws.com/Machine+Learning+non+Supervis%C3%A9/Projects/uber-trip-data.zip.) 👈👈
-
-🎯 Goals
-The objective is to create algorithms that identify hot-zones for Uber drivers and visualize results on a dashboard.
-
-Project Breakdown:
-✅ Part 1: Data Preparation and Exploratory Data Analysis (EDA)
-✅ Part 2: Clustering with K-Means and DBScan for one day of the week and one hour of the day
-✅ Part 3: Extending clustering analysis to all days of the week
-✅ Part 4: Making recommendations for Uber drivers based on the findings
